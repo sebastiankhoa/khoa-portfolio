@@ -8,7 +8,7 @@ const Tech = () => {
 			<Divider p="5" w="200px" />
 			<Heading>Technologies</Heading>
 			<Text color="gray.500" fontSize="20pt">
-				I've worked with a range a technologies in the web development world. From Back-end To Design
+				I have worked with a range a technologies in the web development world. From Back-end To Design
 			</Text>
 			<Flex justify="space-between" mx={{ base: "0", md: "2" }} gap="1">
 				<Flex direction="column">
