@@ -51,6 +51,22 @@ export const projects = [
 		visit: "https://khoa-travel.netlify.app/",
 		id: 4,
 	},
+	{
+		title: "TechK",
+		description: "Project sử dụng NextJS, là 1 trang web tin tức về công nghệ",
+		image: "/images/techk.png",
+		source: "https://github.com/sebastiankhoa/techk",
+		visit: "https://techk.vercel.app/",
+		id: 4,
+	},
+	{
+		title: "UTube",
+		description: "Project sử dụng NextJS, là 1 trang web về video, người dùng khi đăng nhập có thể post video.",
+		image: "/images/Utube.png",
+		source: "https://github.com/sebastiankhoa/utube",
+		visit: "https://utube-three.vercel.app/",
+		id: 4,
+	},
 ];
 
 export const TimeLineData = [
